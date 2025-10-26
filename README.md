@@ -47,3 +47,6 @@ Tugas REST API sederhana untuk muntuk mengelola data buku (Books API) dengan ope
 ### 5. DELET  Haous buku    
 **Output:**
 ![Screenshot](./screenshot/delete_books.png)
+### 6. running di vscode    
+**Output:**
+![Screenshot](./screenshot/run_program.png)
